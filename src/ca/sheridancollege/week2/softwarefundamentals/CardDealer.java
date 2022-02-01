@@ -19,6 +19,9 @@ public class CardDealer
 
         Card spade1 = new Spade("Spades",4);
         System.out.println(spade1.getValue());
+
+        Card spade2 = new Spade("Spades",2);
+        
         
         
         
