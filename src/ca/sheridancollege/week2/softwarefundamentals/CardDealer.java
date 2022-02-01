@@ -18,10 +18,10 @@ public class CardDealer
         nineClubs.setSuit("diamonds");
 
         Card spade1 = new Spade("Spades",4);
+        System.out.println(spade1.getValue());
+        
+        
         
     }
-
-    
-
     
 }
